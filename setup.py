@@ -8,7 +8,7 @@ __version__ ='0.0.0'
 REPO_NAME = 'Kidney-Disease-Classifier'
 AUTHOR_NAME = 'Aman007rj'
 SRC_REPO = 'cnnClassifier'
-AUTHOR_EMAIL = 'entbappy73@gmail.com'
+AUTHOR_EMAIL = 'aman007tj@gmail.com'
 
 setuptools.setup(
     name=SRC_REPO,
